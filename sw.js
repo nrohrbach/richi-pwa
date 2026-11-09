@@ -1,5 +1,5 @@
 // Einfacher App-Shell-Service-Worker. Bei Änderungen an Dateien VERSION erhöhen.
-const VERSION = 'richi-v1';
+const VERSION = 'richi-v2';
 const SHELL = [
   './',
   'index.html',

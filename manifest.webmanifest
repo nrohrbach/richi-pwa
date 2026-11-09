@@ -1,7 +1,7 @@
 {
   "name": "Richi – Laden, Coworking, Treffpunkt",
   "short_name": "Richi",
-  "description": "Schnellzugriff auf Richi Docker, Leihkiste, Quartierraum und Bastelraum.",
+  "description": "Schnellzugriff auf Richi, Leihkiste, Quartierraum, Bastelraum und Pizzaofen.",
   "lang": "de-CH",
   "start_url": "./",
   "scope": "./",
@@ -15,7 +15,7 @@
     { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "shortcuts": [
-    { "name": "Richi Docker", "url": "https://docker.richi.be" },
+    { "name": "Richi öffnen", "url": "https://docker.richi.be" },
     { "name": "Leihkiste", "url": "https://r118-leihkiste.lovable.app" }
   ]
 }

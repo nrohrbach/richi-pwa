@@ -2,10 +2,11 @@
 
 Progressive Web App mit Schnellzugriff auf:
 
-- Richi Docker – https://docker.richi.be
+- Richi öffnen – https://docker.richi.be
 - Leihkiste – https://r118-leihkiste.lovable.app
 - Quartierraum – https://r118.ch/quartierraum/
 - Bastelraum – https://r118.ch/bastelraum/
+- Pizzaofen – https://r118.ch/pizzaofen/
 
 Reine statische Seite, kein Build-Schritt. Alle Pfade sind relativ, daher läuft sie unter `https://<user>.github.io/<repo>/` ebenso wie unter einer eigenen Domain.
 
